@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "WallViewController2.tableView(UITableView, willDisplayCell : UITableViewCell, forRowAtIndexPath : NSIndexPath) -&gt; ():WallViewController2.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell!.greenButtonVar">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WallViewController2.tableView(UITableView, cellForRowAtIndexPath : NSIndexPath, object : PFObject!) -&gt; PFTableViewCell?:WallViewController2.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.redPointSite">
+            </PersistentString>
+            <PersistentString
+               value = "self.yellowPointSite">
+            </PersistentString>
+            <PersistentString
+               value = "self.greenPointSite">
+            </PersistentString>
+            <PersistentString
+               value = "self.bluePointSite">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
